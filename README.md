@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onur Somuncu</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi 👋, I'm Onur Somuncu)](https://git.io/typing-svg)
 <h3 align="center">A computer engineering student who has been learning and continuing to learn for 3 years.</h3>
 
 - 🌱 I’m currently learning **.Net CORE Web Api**
