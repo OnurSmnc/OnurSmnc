@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=700&size=35&duration=2000&pause=1000&color=00F762&background=FF4F1000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Onur+Somuncu;A+computer+engineering+student+who+has+been+learning+and+continuing+to+learn+for+3+years." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=700&size=25&duration=2000&pause=1000&color=00F762&background=FF4F1000&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Onur+Somuncu;A+computer+engineering+student;+who+has+been+learning+and;+continuing+to+learn+for+3+years." alt="Typing SVG" /></a>
 
 - 🌱 I’m currently learning **.Net CORE Web Api**
 
@@ -11,9 +11,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,anaconda,cs,css,html,js,dotnet,pycharm,py,visualstudio,vscode" />
-  
+  </a>
 </p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=warmarr&show_icons=true&locale=en" alt="warmarr" /></p>
