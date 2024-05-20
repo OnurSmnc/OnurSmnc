@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Onur Somuncu</h1>
 <h3 align="center">A computer engineering student who has been learning and continuing to learn for 3 years.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=warmarr" alt="warmarr" /></a> </p>
-
 - 🌱 I’m currently learning **.Net CORE Web Api**
 
 - 📫 How to reach me **smnc.onr@gmail.com**
