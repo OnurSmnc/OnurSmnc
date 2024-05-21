@@ -18,5 +18,5 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=warmarr&show_icons=true&locale=en" alt="warmarr" /></p>
-![snake gif](https://github.com/Warmarr/Warmarr/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Warmarr/Warmarr/blob/output/github-contribution-grid-snake-dark.svg)
 
