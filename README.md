@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=700&size=25&duration=2000&pause=1000&color=00F762&background=FF4F1000&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Onur+Somuncu;." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=700&size=25&duration=2000&pause=1000&color=00F762&background=FF4F1000&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Onur+Somuncu;" alt="Typing SVG" /></a>
 
 - 🌱 I’m currently learning **.Net CORE Web Api**
 
